@@ -15,18 +15,19 @@ Everyday fans of the game ask questions like what steps do we have to follow in 
 __Description__
 An application that gives intel / insight to the game black ops 4. In this application you can find all the details for which weapon is available and how the weapons rank to each other (damage, recoil, etc…). Besides the weapon overview you can also find everything related to easter eggs (what the steps are and how to find them). And finally for blackout you can see side easter eggs and how to unlock every (unlockable) character.
  
-__Features__
+__Main Features__  
+  
 __Blackout__
-Weapons: (model), available weapons, stats
+Weapons: (model),see available weapons + stats
 character unlocks: Which available, where to get, missions -> how to unlock
 (side ee) > Which easter eggs are known within blackout
 
 __Multiplayer__
-Weapons: (model), available weapons, stats
+Weapons: (model), available weapons + stats
 (side ee) > Which easter eggs are known within multiplayer
 
 __Zombies__
-Weapons: (model), available weapons, stats
+Weapons: (model), available weapons + stats
 EE: main ee for each map + side ee
 Buildables: Which are available, where are the parts, build locations
 
