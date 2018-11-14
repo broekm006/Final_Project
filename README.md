@@ -8,12 +8,12 @@ This is a assignment for the minor "programmeren" from the UvA. This is a propos
 "Companion app" > Black ops 4
 
 __Problem statement__
-Everyday fans of the game ask questions like what steps do we have to follow in other to do an easter egg or which weapon is better. Because googling everyting or rewachting youtube videos won't do the trick. It is time an application is created to simplify this process and make a “central hub”. In this hub you need to be able to find everything you need without the hassle.
+Everyday fans of the game ask questions like what steps do we have to follow in other to do an easter egg or which weapon is better. Because googling everyting or rewachting youtube videos won't do the trick. It is time an application is created to simplify this process and make a “central hub”. In this hub you need to be able to find everything you need without the hassle.  Target Audiance: Players of the game / me.
 
 ***
 
 __Description__
-An application that gives intel / insight to the game black ops 4. In this application you can find all the details for which weapon is available and how the weapons rank to each other (damage, recoil, etc…). Besides the weapon overview you can also find everything related to easter eggs (what the steps are and how to find them). And finally for blackout you can see side easter eggs and how to unlock every (unlockable) character. Target Audiance: Players of the game / me
+An application that gives intel / insight to the game black ops 4. In this application you can find all the details for which weapon is available and how the weapons rank to each other (damage, recoil, etc…). Besides the weapon overview you can also find everything related to easter eggs (what the steps are and how to find them). And finally for blackout you can see side easter eggs and how to unlock every (unlockable) character.
  
 __Features__
 __Blackout__
