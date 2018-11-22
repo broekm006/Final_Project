@@ -24,7 +24,7 @@ Show multiple options with with the user can interact like:
 - Cardio
 - Pre-defined sets
 - Results
-- probably more to come during development (food/water intake, activity tracker if i can combine it with somehting IoT)
+- probably more to come during development (food/water intake, activity tracker if i can combine it with somehting IoT, build-in timer)
 
 __Weights:__
 Allow the user to select which exercise they did, how many reps, how many sets and what weights were used.
